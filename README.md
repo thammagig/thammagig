@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thammagig
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Blockchaine
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me ...
 
